@@ -76,6 +76,9 @@ My solutions for [Competitive Programming 4](https://cpbook.net) book. All quest
 * Kattis - bst | [C++](./Chapter%202:%20Data%20Structures%20and%20Libraries/Non-linear%20DS/g.%20Balanced%20BST%20(set)/Kattis%20-%20bst.cpp)
 * Kattis - candydivision | [C++](./Chapter%202:%20Data%20Structures%20and%20Libraries/Non-linear%20DS/g.%20Balanced%20BST%20(set)/Kattis%20-%20candydivision.cpp)
 * Kattis - compoundwords | [C++](./Chapter%202:%20Data%20Structures%20and%20Libraries/Non-linear%20DS/g.%20Balanced%20BST%20(set)/Kattis%20-%20compoundwords.cpp)
+#### h. Balanced BST (map)
+* Kattis - administrativeproblems | [C++](./Chapter%202:%20Data%20Structures%20and%20Libraries/Non-linear%20DS/h.%20Balanced%20BST%20(map)/Kattis%20-%20administrativeproblems.cpp)
+* Kattis - doctorkattis | [C++](./Chapter%202:%20Data%20Structures%20and%20Libraries/Non-linear%20DS/h.%20Balanced%20BST%20(map)/Kattis%20-%20doctorkattis.cpp)
 
 
 
