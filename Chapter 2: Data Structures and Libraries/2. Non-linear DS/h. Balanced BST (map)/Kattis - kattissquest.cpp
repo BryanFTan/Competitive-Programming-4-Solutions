@@ -1,5 +1,5 @@
 /*
-- use a map as a max pq to track energy and a nested max pq to track gold
+- use a map as a max priority queue to track energy and a nested max pq to track gold
 - map<energy, priority_queue<gold>>
 - use map.lower_bound to get to next biggest element from x (if not will timeout)
 - decrement to get biggest element <= x
