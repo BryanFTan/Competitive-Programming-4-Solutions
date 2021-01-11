@@ -83,6 +83,10 @@ My solutions for [Competitive Programming 4](https://cpbook.net) book. All quest
 ### 3. DS with own libraries
 #### a. Graph
 * UVa 11991 - Easy Problem | [C++](./Chapter%202:%20Data%20Structures%20and%20Libraries/3.%20DS%20with%20own%20libraries/a.%20Graph/UVa%2011991%20-%20Easy%20Problem.cpp)
+#### b. Union-Find
+* Kattis - controloverminds | [C++](./Chapter%202:%20Data%20Structures%20and%20Libraries/3.%20DS%20with%20own%20libraries/b.%20Union-Find/Kattis%20-%20controloverminds.cpp)
+* Kattis - ladice | [C++](./Chapter%202:%20Data%20Structures%20and%20Libraries/3.%20DS%20with%20own%20libraries/b.%20Union-Find/Kattis%20-%20ladice.cpp)
+* Kattis - unionfind | [C++](./Chapter%202:%20Data%20Structures%20and%20Libraries/3.%20DS%20with%20own%20libraries/b.%20Union-Find/Kattis%20-%20unionfind.cpp)
 
 
 
