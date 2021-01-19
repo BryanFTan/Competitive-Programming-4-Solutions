@@ -91,6 +91,17 @@ My solutions for [Competitive Programming 4](https://cpbook.net) book. All quest
 
 
 
+## Chapter 3: Problem Solving Paradigms
+### 1. Complete Search
+#### b. Iterative (2 Nested Loops)
+* Kattis - blackfriday | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/b.%20Iterative%20(2%20Nested%20Loops)/Kattis%20-%20blackfriday.cpp)
+* Kattis - closestsums | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/b.%20Iterative%20(2%20Nested%20Loops)/Kattis%20-%20closestsums.cpp)
+* Kattis - golombrulers | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/b.%20Iterative%20(2%20Nested%20Loops)/Kattis%20-%20golombrulers.cpp)
+* Kattis - pet | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/b.%20Iterative%20(2%20Nested%20Loops)/Kattis%20-%20pet.cpp)
+#### e. Iterative (permutation)
+* Kattis - dancerecital | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/e.%20Iterative%20(permutation)/Kattis%20-%20dancerecital.cpp)
+* UVa 11742 - Social Constraints | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/e.%20Iterative%20(permutation)/UVa%2011742%20-%20Social%20Constraints.cpp)
+
 
 
 
