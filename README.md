@@ -98,9 +98,12 @@ My solutions for [Competitive Programming 4](https://cpbook.net) book. All quest
 * Kattis - closestsums | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/b.%20Iterative%20(2%20Nested%20Loops)/Kattis%20-%20closestsums.cpp)
 * Kattis - golombrulers | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/b.%20Iterative%20(2%20Nested%20Loops)/Kattis%20-%20golombrulers.cpp)
 * Kattis - pet | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/b.%20Iterative%20(2%20Nested%20Loops)/Kattis%20-%20pet.cpp)
-#### e. Iterative (permutation)
-* Kattis - dancerecital | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/e.%20Iterative%20(permutation)/Kattis%20-%20dancerecital.cpp)
-* UVa 11742 - Social Constraints | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/e.%20Iterative%20(permutation)/UVa%2011742%20-%20Social%20Constraints.cpp)
+#### e. Iterative (Permutation)
+* Kattis - dancerecital | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/e.%20Iterative%20(Permutation)/Kattis%20-%20dancerecital.cpp)
+* Kattis - dreamer | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/e.%20Iterative%20(Permutation)/Kattis%20-%20dreamer.cpp)
+* UVa 11742 - Social Constraints | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/e.%20Iterative%20(Permutation)/UVa%2011742%20-%20Social%20Constraints.cpp)
+#### f. Iterative (Combination)
+* UVa 639 - Don't Get Rooked | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/f.%20Iterative%20(Combination)/UVa%20639%20-%20Don't%20Get%20Rooked.cpp)
 
 
 
