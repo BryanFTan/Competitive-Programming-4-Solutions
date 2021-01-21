@@ -103,6 +103,8 @@ My solutions for [Competitive Programming 4](https://cpbook.net) book. All quest
 * Kattis - dreamer | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/e.%20Iterative%20(Permutation)/Kattis%20-%20dreamer.cpp)
 * UVa 11742 - Social Constraints | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/e.%20Iterative%20(Permutation)/UVa%2011742%20-%20Social%20Constraints.cpp)
 #### f. Iterative (Combination)
+* Kattis - geppetto | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/f.%20Iterative%20(Combination)/Kattis%20-%20geppetto.cpp)
+* Kattis - squaredeal | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/f.%20Iterative%20(Combination)/Kattis%20-%20squaredeal.cpp)
 * UVa 639 - Don't Get Rooked | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/f.%20Iterative%20(Combination)/UVa%20639%20-%20Don't%20Get%20Rooked.cpp)
 
 
