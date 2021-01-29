@@ -106,6 +106,10 @@ My solutions for [Competitive Programming 4](https://cpbook.net) book. All quest
 * Kattis - geppetto | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/f.%20Iterative%20(Combination)/Kattis%20-%20geppetto.cpp)
 * Kattis - squaredeal | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/f.%20Iterative%20(Combination)/Kattis%20-%20squaredeal.cpp)
 * UVa 639 - Don't Get Rooked | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/f.%20Iterative%20(Combination)/UVa%20639%20-%20Don't%20Get%20Rooked.cpp)
+### 2. Divide and Conquer
+#### a. Binary Search
+* UVA 11621 - Small Factors | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/2.%20Divide%20and%20Conquer/a.%20Binary%20Search/UVA%2011621%20-%20Small%20Factors.cpp)
+* UVa 11057 - Exact Sum | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/2.%20Divide%20and%20Conquer/a.%20Binary%20Search/UVa%2011057%20-%20Exact%20Sum.cpp)
 
 
 
