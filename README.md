@@ -110,6 +110,7 @@ My solutions for [Competitive Programming 4](https://cpbook.net) book. All quest
 #### a. Binary Search
 * UVA 11621 - Small Factors | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/2.%20Divide%20and%20Conquer/a.%20Binary%20Search/UVA%2011621%20-%20Small%20Factors.cpp)
 * UVa 11057 - Exact Sum | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/2.%20Divide%20and%20Conquer/a.%20Binary%20Search/UVa%2011057%20-%20Exact%20Sum.cpp)
+* UVa 12192 - Grapevine | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/2.%20Divide%20and%20Conquer/a.%20Binary%20Search/UVa%2012192%20-%20Grapevine.cpp)
 
 
 
