@@ -111,6 +111,13 @@ My solutions for [Competitive Programming 4](https://cpbook.net) book. All quest
 * UVA 11621 - Small Factors | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/2.%20Divide%20and%20Conquer/a.%20Binary%20Search/UVA%2011621%20-%20Small%20Factors.cpp)
 * UVa 11057 - Exact Sum | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/2.%20Divide%20and%20Conquer/a.%20Binary%20Search/UVa%2011057%20-%20Exact%20Sum.cpp)
 * UVa 12192 - Grapevine | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/2.%20Divide%20and%20Conquer/a.%20Binary%20Search/UVa%2012192%20-%20Grapevine.cpp)
+* UVa 12965 - Angry Birds | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/2.%20Divide%20and%20Conquer/a.%20Binary%20Search/UVa%2012965%20-%20Angry%20Birds.cpp)
+#### b. Bisection and BSTA
+* Kattis - carefulascent | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/2.%20Divide%20and%20Conquer/b.%20Bisection%20and%20BSTA/Kattis%20-%20carefulascent.cpp)
+* test | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/2.%20Divide%20and%20Conquer/b.%20Bisection%20and%20BSTA/test.cpp)
+### 3. Greedy
+#### a. Classical
+* UVa  10020 - Minimal Coverage | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/3.%20Greedy/a.%20Classical/UVa%20%2010020%20-%20Minimal%20Coverage.cpp)
 
 
 
