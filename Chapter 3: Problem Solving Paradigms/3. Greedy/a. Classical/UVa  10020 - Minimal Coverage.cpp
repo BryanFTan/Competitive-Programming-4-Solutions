@@ -1,3 +1,4 @@
+//classic interval covering algorithm
 #include <bits/stdc++.h>
 
 using namespace std;
