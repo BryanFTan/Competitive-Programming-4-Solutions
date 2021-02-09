@@ -118,6 +118,9 @@ My solutions for [Competitive Programming 4](https://cpbook.net) book. All quest
 ### 3. Greedy
 #### a. Classical
 * UVa  10020 - Minimal Coverage | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/3.%20Greedy/a.%20Classical/UVa%20%2010020%20-%20Minimal%20Coverage.cpp)
+#### b. Sorting
+* UVa 11369 - Shopaholic | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/3.%20Greedy/b.%20Sorting/UVa%2011369%20-%20Shopaholic.cpp)
+* UVa 11729 - Commando War | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/3.%20Greedy/b.%20Sorting/UVa%2011729%20-%20Commando%20War.cpp)
 
 
 
