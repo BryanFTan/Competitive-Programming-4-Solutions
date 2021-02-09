@@ -114,7 +114,6 @@ My solutions for [Competitive Programming 4](https://cpbook.net) book. All quest
 * UVa 12965 - Angry Birds | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/2.%20Divide%20and%20Conquer/a.%20Binary%20Search/UVa%2012965%20-%20Angry%20Birds.cpp)
 #### b. Bisection and BSTA
 * Kattis - carefulascent | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/2.%20Divide%20and%20Conquer/b.%20Bisection%20and%20BSTA/Kattis%20-%20carefulascent.cpp)
-* test | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/2.%20Divide%20and%20Conquer/b.%20Bisection%20and%20BSTA/test.cpp)
 ### 3. Greedy
 #### a. Classical
 * UVa  10020 - Minimal Coverage | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/3.%20Greedy/a.%20Classical/UVa%20%2010020%20-%20Minimal%20Coverage.cpp)
