@@ -123,7 +123,9 @@ My solutions for [Competitive Programming 4](https://cpbook.net) book. All quest
 * UVa 11900 - Boiled Eggs | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/3.%20Greedy/b.%20Sorting%20(easier)/UVa%2011900%20-%20Boiled%20Eggs.cpp)
 * UVa 13109 - Elephants | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/3.%20Greedy/b.%20Sorting%20(easier)/UVa%2013109%20-%20Elephants.cpp)
 #### c. Sorting (harder)
+* UVa 10026 - Shoemaker's problem | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/3.%20Greedy/c.%20Sorting%20(harder)/UVa%2010026%20-%20Shoemaker's%20problem.cpp)
 * UVa 12673 - Football | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/3.%20Greedy/c.%20Sorting%20(harder)/UVa%2012673%20-%20Football.cpp)
+* UVa 12834 - Extreme Terror | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/3.%20Greedy/c.%20Sorting%20(harder)/UVa%2012834%20-%20Extreme%20Terror.cpp)
 
 
 
