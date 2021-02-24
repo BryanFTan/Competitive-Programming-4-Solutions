@@ -6,7 +6,7 @@ readme.write('# Competitive Programming 4 solutions\n')
 readme.write('My solutions for [Competitive Programming 4](https://cpbook.net) book. All questions can be found [here](https://cpbook.net/methodstosolve)\n')
 
 directory = '/Users/bryantan/Documents/Bryan/C++/CP4'
-for filename in os.listdir(directory):
+for filename in sorted(os.listdir(directory)):
     if filename.startswith("Chapter"):
         readme.write('## ' + filename + "\n")
         subd = os.path.join(directory, filename)

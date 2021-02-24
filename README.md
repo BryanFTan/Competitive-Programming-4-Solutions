@@ -1,10 +1,6 @@
 # Competitive Programming 4 solutions
 My solutions for [Competitive Programming 4](https://cpbook.net) book. All questions can be found [here](https://cpbook.net/methodstosolve)
-## Chapter 4. Graphs
-### 1. Graph Traversal
-#### a. Connected Components
-* Kattis - wheresmyinternet | [C++](./Chapter%204.%20Graphs/1.%20Graph%20Traversal/a.%20Connected%20Components/Kattis%20-%20wheresmyinternet.cpp)
-* UVa 459 - Graph Connectivity | [C++](./Chapter%204.%20Graphs/1.%20Graph%20Traversal/a.%20Connected%20Components/UVa%20459%20-%20Graph%20Connectivity.cpp)
+
 
 
 ## Chapter 1: Introduction
@@ -94,9 +90,6 @@ My solutions for [Competitive Programming 4](https://cpbook.net) book. All quest
 * Kattis - ladice | [C++](./Chapter%202:%20Data%20Structures%20and%20Libraries/3.%20DS%20with%20own%20libraries/b.%20Union-Find/Kattis%20-%20ladice.cpp)
 * Kattis - unionfind | [C++](./Chapter%202:%20Data%20Structures%20and%20Libraries/3.%20DS%20with%20own%20libraries/b.%20Union-Find/Kattis%20-%20unionfind.cpp)
 
-
-
-
 ## Chapter 3: Problem Solving Paradigms
 ### 1. Complete Search
 #### b. Iterative (2 Nested Loops)
@@ -132,6 +125,13 @@ My solutions for [Competitive Programming 4](https://cpbook.net) book. All quest
 * UVa 10026 - Shoemaker's problem | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/3.%20Greedy/c.%20Sorting%20(harder)/UVa%2010026%20-%20Shoemaker's%20problem.cpp)
 * UVa 12673 - Football | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/3.%20Greedy/c.%20Sorting%20(harder)/UVa%2012673%20-%20Football.cpp)
 * UVa 12834 - Extreme Terror | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/3.%20Greedy/c.%20Sorting%20(harder)/UVa%2012834%20-%20Extreme%20Terror.cpp)
+
+## Chapter 4: Graphs
+### 1. Graph Traversal
+#### a. Connected Components
+* Kattis - wheresmyinternet | [C++](./Chapter%204:%20Graphs/1.%20Graph%20Traversal/a.%20Connected%20Components/Kattis%20-%20wheresmyinternet.cpp)
+* UVa 459 - Graph Connectivity | [C++](./Chapter%204:%20Graphs/1.%20Graph%20Traversal/a.%20Connected%20Components/UVa%20459%20-%20Graph%20Connectivity.cpp)
+
 
 
 
