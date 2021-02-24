@@ -1,3 +1,4 @@
+//find connected components
 #include <bits/stdc++.h>
 
 using namespace std;
