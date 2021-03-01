@@ -133,6 +133,14 @@ My solutions for [Competitive Programming 4](https://cpbook.net) book. All quest
 * UVa 11906 - Knight in War Grid | [C++](./Chapter%204:%20Graphs/1.%20Graph%20Traversal/a.%20Connected%20Components/UVa%2011906%20-%20Knight%20in%20War%20Grid.cpp)
 * UVa 459 - Graph Connectivity | [C++](./Chapter%204:%20Graphs/1.%20Graph%20Traversal/a.%20Connected%20Components/UVa%20459%20-%20Graph%20Connectivity.cpp)
 #### b. Flood Fill (easier)
+* UVa 11953 - Battleships | [C++](./Chapter%204:%20Graphs/1.%20Graph%20Traversal/b.%20Flood%20Fill%20(easier)/UVa%2011953%20-%20Battleships.cpp)
 * UVa 352 - Seasonal War | [C++](./Chapter%204:%20Graphs/1.%20Graph%20Traversal/b.%20Flood%20Fill%20(easier)/UVa%20352%20-%20Seasonal%20War.cpp)
 * UVa 572 - Oil Deposits | [C++](./Chapter%204:%20Graphs/1.%20Graph%20Traversal/b.%20Flood%20Fill%20(easier)/UVa%20572%20-%20Oil%20Deposits.cpp)
 * UVa 871 - Counting Cells in a Blob | [C++](./Chapter%204:%20Graphs/1.%20Graph%20Traversal/b.%20Flood%20Fill%20(easier)/UVa%20871%20-%20Counting%20Cells%20in%20a%20Blob.cpp)
+#### c. Flood Fill (harder)
+* UVa 11094 - Continents | [C++](./Chapter%204:%20Graphs/1.%20Graph%20Traversal/c.%20Flood%20Fill%20(harder)/UVa%2011094%20-%20Continents.cpp)
+
+
+
+
+
