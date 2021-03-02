@@ -139,6 +139,7 @@ My solutions for [Competitive Programming 4](https://cpbook.net) book. All quest
 * UVa 871 - Counting Cells in a Blob | [C++](./Chapter%204:%20Graphs/1.%20Graph%20Traversal/b.%20Flood%20Fill%20(easier)/UVa%20871%20-%20Counting%20Cells%20in%20a%20Blob.cpp)
 #### c. Flood Fill (harder)
 * UVa 11094 - Continents | [C++](./Chapter%204:%20Graphs/1.%20Graph%20Traversal/c.%20Flood%20Fill%20(harder)/UVa%2011094%20-%20Continents.cpp)
+* UVa 852 - Deciding victory in Go | [C++](./Chapter%204:%20Graphs/1.%20Graph%20Traversal/c.%20Flood%20Fill%20(harder)/UVa%20852%20-%20Deciding%20victory%20in%20Go.cpp)
 
 
 
