@@ -2,7 +2,6 @@
 My solutions for [Competitive Programming 4](https://cpbook.net) book. All questions can be found [here](https://cpbook.net/methodstosolve)
 
 
-
 ## Chapter 1: Introduction
 ### Easy questions
 #### a. IO + Sequence
@@ -105,8 +104,18 @@ My solutions for [Competitive Programming 4](https://cpbook.net) book. All quest
 * Kattis - geppetto | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/f.%20Iterative%20(Combination)/Kattis%20-%20geppetto.cpp)
 * Kattis - squaredeal | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/f.%20Iterative%20(Combination)/Kattis%20-%20squaredeal.cpp)
 * UVa 639 - Don't Get Rooked | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/f.%20Iterative%20(Combination)/UVa%20639%20-%20Don't%20Get%20Rooked.cpp)
+#### k. Recursive Backtracking (easier)
+* Kattis - goodmorning | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/k.%20Recursive%20Backtracking%20(easier)/Kattis%20-%20goodmorning.cpp)
+* Kattis - natjecanje | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/k.%20Recursive%20Backtracking%20(easier)/Kattis%20-%20natjecanje.cpp)
+* Kattis - paintings | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/k.%20Recursive%20Backtracking%20(easier)/Kattis%20-%20paintings.cpp)
+* UVa 10344 - 23 Out of 5 | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/k.%20Recursive%20Backtracking%20(easier)/UVa%2010344%20-%2023%20Out%20of%205.cpp)
+* UVa 10576 - Y2K Accounting Bug | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/k.%20Recursive%20Backtracking%20(easier)/UVa%2010576%20-%20Y2K%20Accounting%20Bug.cpp)
+* UVa 729 - Hamming Distance | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/1.%20Complete%20Search/k.%20Recursive%20Backtracking%20(easier)/UVa%20729%20-%20Hamming%20Distance.cpp)
 ### 2. Divide and Conquer
 #### a. Binary Search
+* Kattis - firefly | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/2.%20Divide%20and%20Conquer/a.%20Binary%20Search/Kattis%20-%20firefly.cpp)
+* Kattis - outofsorts | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/2.%20Divide%20and%20Conquer/a.%20Binary%20Search/Kattis%20-%20outofsorts.cpp)
+* Kattis - roompainting | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/2.%20Divide%20and%20Conquer/a.%20Binary%20Search/Kattis%20-%20roompainting.cpp)
 * UVA 11621 - Small Factors | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/2.%20Divide%20and%20Conquer/a.%20Binary%20Search/UVA%2011621%20-%20Small%20Factors.cpp)
 * UVa 11057 - Exact Sum | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/2.%20Divide%20and%20Conquer/a.%20Binary%20Search/UVa%2011057%20-%20Exact%20Sum.cpp)
 * UVa 12192 - Grapevine | [C++](./Chapter%203:%20Problem%20Solving%20Paradigms/2.%20Divide%20and%20Conquer/a.%20Binary%20Search/UVa%2012192%20-%20Grapevine.cpp)
@@ -140,6 +149,7 @@ My solutions for [Competitive Programming 4](https://cpbook.net) book. All quest
 #### c. Flood Fill (harder)
 * UVa 11094 - Continents | [C++](./Chapter%204:%20Graphs/1.%20Graph%20Traversal/c.%20Flood%20Fill%20(harder)/UVa%2011094%20-%20Continents.cpp)
 * UVa 852 - Deciding victory in Go | [C++](./Chapter%204:%20Graphs/1.%20Graph%20Traversal/c.%20Flood%20Fill%20(harder)/UVa%20852%20-%20Deciding%20victory%20in%20Go.cpp)
+
 
 
 
